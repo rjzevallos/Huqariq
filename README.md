@@ -1,6 +1,6 @@
 # Huqariq: A Native-Multilingual Speech Corpus
 
-This is the web app for, a platform for collecting speech donations in order to create public domain datasets for training voice recognition-related tools.
+This is the web app for [Siminchikkunarayku](https://www.siminchikkunarayku.pe/), a platform for collecting speech donations in order to create public domain datasets for training voice recognition-related tools.
 
 ## Upcoming releases
 
