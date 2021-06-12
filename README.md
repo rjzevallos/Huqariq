@@ -1,1 +1,1 @@
-# Quechua_Speech_Corpus
+# Huqariq: A Native-Multilingual Speech Corpus
