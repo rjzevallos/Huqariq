@@ -14,6 +14,7 @@ This is the web app for, a platform for collecting speech donations in order to 
 🎉 First off, thanks for taking the time to contribute! This project would not be possible without people like you. 🎉
 
 There are many ways to get involved with Common Voice - you don't have to know how to code to contribute!
+
 -
 -
 -
