@@ -5,9 +5,9 @@ This is the web app for [Siminchikkunarayku](https://www.siminchikkunarayku.pe/)
 ## Upcoming releases
 
 ## Quick links
--
--
--
+- [Code of conduct](./docs/CODE_OF_CONDUCT.md)
+- [Development setup](./docs/DEVELOPMENT.md)
+- [License](./LICENSE)
 
 ## How to contribute
 
@@ -15,8 +15,9 @@ This is the web app for [Siminchikkunarayku](https://www.siminchikkunarayku.pe/)
 
 There are many ways to get involved with Common Voice - you don't have to know how to code to contribute!
 
--
--
+- 
+- For instructions on setting up a local development environment, see [DEVELOPMENT.md](./docs/DEVELOPMENT.md)
+- For information on how to add a new language to Common Voice, see [LANGUAGE.md](./docs/LANGUAGE.md)
 -
 
 ## Discussion
