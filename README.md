@@ -4,6 +4,11 @@ This is the web app for [Siminchikkunarayku](https://www.siminchikkunarayku.pe/)
 
 ## Upcoming releases
 
+| Type             | Expected date  | More info      |
+| :--------------- |:---------------|:---------------|
+| Code & sentences |  | [Release notes]() |
+| Dataset          |  | [Dataset metadata]() |
+
 ## Quick links
 - [Code of conduct](./docs/CODE_OF_CONDUCT.md)
 - [Development setup](./docs/DEVELOPMENT.md)
