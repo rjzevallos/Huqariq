@@ -27,6 +27,8 @@ There are many ways to get involved with Common Voice - you don't have to know h
 
 ## Discussion
 
+For bug reports or specific feature, please use the [GitHub issue tracker](https://github.com/Siminchik/Huqariq/issues).
+
 ## Licensing and content source
 
 This repository is released under
