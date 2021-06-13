@@ -1,4 +1,6 @@
-# Huqariq: A Native-Multilingual Speech Corpus
+# Huqariq: Un Speech-corpus de Lenguas Originarias de Latinoamérica.
+
+versiones: :us: 
 
 This is the web app for [Siminchikkunarayku](https://www.siminchikkunarayku.pe/), a platform for collecting speech donations in order to create public domain datasets for native languages in Latin America. This speech corpus is used training voice recognition-related tools.
 
