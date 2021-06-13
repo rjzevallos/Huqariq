@@ -1,4 +1,4 @@
-# Huqariq: Un Speech-corpus de Lenguas Originarias de Latinoamérica.
+# Huqariq: Un Speech-corpus de Lenguas Originarias de Latinoamérica
 
 versiones: [<img src='images/US@3x.png?raw=true' width='21' height='15'>](english.md) 
 
